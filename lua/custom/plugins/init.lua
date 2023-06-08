@@ -4,7 +4,7 @@
 -- See the kickstart.nvim README for more information
 return {
   -- Conjure!
-  'Olical/conjure',
+  --'Olical/conjure',
 
   -- vim-jack-in
   'radenling/vim-dispatch-neovim',
