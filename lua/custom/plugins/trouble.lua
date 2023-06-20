@@ -1,3 +1,4 @@
+-- taken from LazyVim
 return {
   "folke/trouble.nvim",
   cmd = { "TroubleToggle", "Trouble" },
