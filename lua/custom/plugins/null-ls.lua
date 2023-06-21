@@ -10,6 +10,7 @@ return {
         null_ls.builtins.diagnostics.mypy,
         null_ls.builtins.diagnostics.ruff,
         null_ls.builtins.formatting.black,
+        null_ls.builtins.code_actions.gitsigns,
         -- null_ls.builtins.diagnostics.flake8,
       },
       -- autoformat is set up by lua/kickstart/autoformat.lua,
